@@ -1,2 +1,2 @@
 # Codigonerd
-meu primeiro website com objectívos experimentais
+Minhas Experiência como Desenvolvedor Júnior.
